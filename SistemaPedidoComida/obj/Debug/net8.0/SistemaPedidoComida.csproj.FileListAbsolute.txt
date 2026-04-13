@@ -1,0 +1,14 @@
+C:\C#\ProjetoVagas\SistemaPedidoComida\SistemaPedidoComida\bin\Debug\net8.0\SistemaPedidoComida.exe
+C:\C#\ProjetoVagas\SistemaPedidoComida\SistemaPedidoComida\bin\Debug\net8.0\SistemaPedidoComida.deps.json
+C:\C#\ProjetoVagas\SistemaPedidoComida\SistemaPedidoComida\bin\Debug\net8.0\SistemaPedidoComida.runtimeconfig.json
+C:\C#\ProjetoVagas\SistemaPedidoComida\SistemaPedidoComida\bin\Debug\net8.0\SistemaPedidoComida.dll
+C:\C#\ProjetoVagas\SistemaPedidoComida\SistemaPedidoComida\bin\Debug\net8.0\SistemaPedidoComida.pdb
+C:\C#\ProjetoVagas\SistemaPedidoComida\SistemaPedidoComida\obj\Debug\net8.0\SistemaPedidoComida.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ProjetoVagas\SistemaPedidoComida\SistemaPedidoComida\obj\Debug\net8.0\SistemaPedidoComida.AssemblyInfoInputs.cache
+C:\C#\ProjetoVagas\SistemaPedidoComida\SistemaPedidoComida\obj\Debug\net8.0\SistemaPedidoComida.AssemblyInfo.cs
+C:\C#\ProjetoVagas\SistemaPedidoComida\SistemaPedidoComida\obj\Debug\net8.0\SistemaPedidoComida.csproj.CoreCompileInputs.cache
+C:\C#\ProjetoVagas\SistemaPedidoComida\SistemaPedidoComida\obj\Debug\net8.0\SistemaPedidoComida.dll
+C:\C#\ProjetoVagas\SistemaPedidoComida\SistemaPedidoComida\obj\Debug\net8.0\refint\SistemaPedidoComida.dll
+C:\C#\ProjetoVagas\SistemaPedidoComida\SistemaPedidoComida\obj\Debug\net8.0\SistemaPedidoComida.pdb
+C:\C#\ProjetoVagas\SistemaPedidoComida\SistemaPedidoComida\obj\Debug\net8.0\SistemaPedidoComida.genruntimeconfig.cache
+C:\C#\ProjetoVagas\SistemaPedidoComida\SistemaPedidoComida\obj\Debug\net8.0\ref\SistemaPedidoComida.dll
